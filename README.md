@@ -9,8 +9,8 @@
 
 ### Interest
 
-Web development <br/>
-Animation with pure CSS & P5.js <br/>
+<!-- Web development <br/>
+Animation with pure CSS & P5.js <br/> -->
 
 ### Latest Projects
 [Git_merge_practice](https://github.com/jakeham22/merge_3.2_before_fast_forward)
