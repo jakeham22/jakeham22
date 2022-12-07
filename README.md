@@ -43,7 +43,7 @@ Animation with pure CSS & P5.js <br/> -->
 
 <p>
 <a href="wkdhr000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><wkdrh000@gmail.com>
 </p>
 
 <!-- status bar -->
