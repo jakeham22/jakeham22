@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on **a** -->
 
 <h1>About me </h1>
-- 🌱 I’m currently learning **web Full stack development**
+- 🌱 I’m currently learning **web Full stack development**       
 
 - 👨‍💻 All of my projects are available at [https://github.com/jakeham22](https://github.com/jakeham22)
 
