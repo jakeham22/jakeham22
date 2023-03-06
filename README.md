@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm jake ham(함경녕)</h1>
-<h3 align="center">Pre-developer from south korea</h3>
+<h3 align="center">백엔드 개발자</h3>
 <br>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeham22&label=Profile%20views&color=0e75b6&style=flat" alt="jakeham22" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeham22&label=Profile%20views&color=0e75b6&style=flat" alt="jakeham22" /> </p>
 
-<!-- - 🔭 I’m currently working on **a** -->
 
 <h1>About me </h1>
 - 🌱 I’m currently learning **web Full stack development**       
