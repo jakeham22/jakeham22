@@ -5,13 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeham22&label=Profile%20views&color=0e75b6&style=flat" alt="jakeham22" /> </p>
 
 
-<h1>About me </h1>
-- 🌱 I’m currently learning **web Full stack development**       
-
-- 👨‍💻 All of my projects are available at [https://github.com/jakeham22](https://github.com/jakeham22)
-
-- 📝 I regularly write articles on [https://github.com/jakeham22](https://github.com/jakeham22)
-
 - 📫 How to reach me **wkdrh000@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
