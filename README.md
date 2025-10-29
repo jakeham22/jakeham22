@@ -16,23 +16,22 @@
 <p align="center">
 <p align="center">
 <!--language    -->
-  <img src="https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-007396?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-007396?style=for-the-badge&logo=CSS&logoColor=#663399"/></a>&nbsp
+  <img src="https://img.shields.io/badge/javascript-007396?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/></a>&nbsp
   <br>
 <!-- Framework & DBMS   -->
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/node.js-007396?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E"/></a>&nbsp
+<br>
 <!--  Communication Tools   -->
-   <br>
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp
    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=VSCode&logoColor=white"/></a>&nbsp
 </p>
 
 <!-- Top-langs -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakeham22&show_icons=true&locale=en&layout=compact" alt="jakeham22" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakeham22&show_icons=true&locale=en&layout=compact" alt="jakeham22" /></p>
 <!-- Github Stats  -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakeham22&show_icons=true&locale=en" alt="jakeham22" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=jakeham22&show_icons=true&locale=en" alt="jakeham22" /></p>
 <!-- Hits  -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jakeham22&label=Profile%20views&color=0e75b6&style=flat" alt="jakeham22" /> </p>
