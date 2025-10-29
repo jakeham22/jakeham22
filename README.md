@@ -8,7 +8,7 @@
 <!-- Gmail -->
 <a href="mailto:wkdrh000@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=wkdrh000@gmail.com"/>
 <!-- Insta -->
-<a href="https://www.instagram.com/jake_ham_93/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jake_ham_93/"/></a>&nbsp
+<a href="https://www.instagram.com/jakeham_93/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jake_ham_93/"/></a>&nbsp
 </a></a>
 </p>
 
