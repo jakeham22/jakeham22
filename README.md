@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Welcome!!&fontAlign=50&fontAlignY=70&fontSize=40&fontColor=000000)
 
-<!-- https://simpleicons.org/ 아이콘-->
-<!-- https://shields.io/ 배지 -->
-
 <h2 align="center">📞 Contact Links</h3>
 <p align="center">
 <!-- Gmail -->
